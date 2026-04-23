@@ -14,9 +14,9 @@ This project demonstrates a complete end-to-end ML pipeline:
 
 ## 🎯 Results
 
-- **R² Score:** ~0.XX (model explains XX% variance)
-- **RMSE:** $X.XXk average prediction error
-- **Key Predictors:** RM (rooms), LSTAT (% lower status), PTRATIO
+- R² Score:0.77 
+- RMSE:13.47
+- Key Predictors: RM (rooms), LSTAT (% lower status), PTRATIO
 
 ## 🛠️ Technologies Used
 
@@ -35,43 +35,4 @@ Boston Housing Dataset with 13 features:
 - MEDV: Median house value (target)
 - And 9 more features
 
-## 🚀 How to Run
 
-1. Clone the repository:
-```bash
-git clone https://github.com/YOUR_USERNAME/boston-house-price-prediction.git
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Open Jupyter Notebook:
-```bash
-jupyter notebook House_Price_Prediction_Improved.ipynb
-```
-
-## 📈 Key Features
-
-✅ Comprehensive EDA with visualizations
-✅ Missing value imputation
-✅ IQR-based outlier removal
-✅ Feature correlation analysis
-✅ Proper train-test split (80-20)
-✅ Feature scaling for better performance
-✅ Multiple evaluation metrics (MSE, RMSE, MAE, R²)
-✅ Prediction vs Actual visualization
-✅ Residual analysis
-
-## 🎓 About
-
-This project was developed as part of my AI/ML learning journey at the University of Haripur, BSAI program.
-
-## 📫 Connect
-
-- LinkedIn: [Your LinkedIn Profile]
-- Email: your.email@example.com
-
----
-⭐ If you found this project helpful, please give it a star!
