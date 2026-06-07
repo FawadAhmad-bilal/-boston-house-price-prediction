@@ -34,5 +34,3 @@ Boston Housing Dataset with 13 features:
 - LSTAT: % lower status population
 - MEDV: Median house value (target)
 - And 9 more features
-
-
